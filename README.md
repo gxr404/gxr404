@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 
 [![gxr404 GitHub stats](https://github-readme-stats-lime-sigma-23.vercel.app/api?username=gxr404&show_icons=true&theme=vue#gh-light-mode-only)](https://github-readme-stats-lime-sigma-23.vercel.app/api?username=gxr404&show_icons=true&theme=vue#gh-light-mode-only)
-[![gxr404 GitHub stats](https://github-readme-stats-lime-sigma-23.vercel.app/api?username=gxr404&show_icons=true&theme=vue-dark&border_color=444c56#gh-dark-mode-only)](https://github-readme-stats-lime-sigma-23.vercel.app/api?username=gxr404&show_icons=true&theme=vue-dark&border_color=444c56#gh-dark-mode-only)
+[![gxr404 GitHub stats](https://github-readme-stats-lime-sigma-23.vercel.app/api?username=gxr404&show_icons=true&theme=github_dark_dimmed&border_color=444c56#gh-dark-mode-only)](https://github-readme-stats-lime-sigma-23.vercel.app/api?username=gxr404&show_icons=true&theme=github_dark_dimmed&border_color=444c56#gh-dark-mode-only)
 
