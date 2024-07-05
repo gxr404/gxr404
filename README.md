@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-<!--
+<!-- 
 **gxr404/gxr404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![gxr404 GitHub stats](https://github-readme-stats-lime-sigma-23.vercel.app/api?username=gxr404&show_icons=true&theme=vue#gh-light-mode-only)](https://github-readme-stats-lime-sigma-23.vercel.app/api?username=gxr404&show_icons=true&theme=vue#gh-light-mode-only)
+[![gxr404 GitHub stats](https://github-readme-stats-lime-sigma-23.vercel.app/api?username=gxr404&show_icons=true&theme=vue-dark#gh-dark-mode-only)](https://github-readme-stats-lime-sigma-23.vercel.app/api?username=gxr404&show_icons=true&theme=vue-dark#gh-dark-mode-only)
+
